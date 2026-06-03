@@ -19,7 +19,7 @@
 
 | 🎯 System Overview | 📸 Interface Preview |
 | :--- | :--- |
-| **Among Us Internal Framework** — Advanced gameplay assistant featuring automated target tracking, extended player visibility (ESP overlays), and role detection diagnostics. <br><br> Optimize your matches, monitor active sabotage events, and improve team coordination. Fully optimized for Windows 10/11 systems. | <img src="https://i.vgy.me/RElPPt.png" alt="Project Menu" width="60%"> |
+| **Among Us Internal Framework** — Advanced gameplay assistant featuring automated target tracking, extended player visibility (ESP overlays), and role detection diagnostics. <br><br> Optimize your matches, monitor active sabotage events, and improve team coordination. Fully optimized for Windows 10/11 systems. | <img src="https://i.vgy.me/Cefzlc.png" alt="Project Menu" width="60%"> |
 
 ---
 
